@@ -1,0 +1,1 @@
+This is Infected Japanese's first git project! 
